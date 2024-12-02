@@ -17,3 +17,9 @@ demo/target/classes/demo/Task1/Student.class
 demo/target/classes/demo/Task3/MyImage.class
 demo/target/classes/demo/Task3/RealImage.class
 demo/src/main/java/demo/Main.java
+demo/target/classes/demo/Task2/MailBox.class
+demo/target/classes/demo/Task3/ProxyImage.class
+demo/target/test-classes/ClientTest.class
+demo/target/test-classes/MailCodeTest.class
+demo/target/test-classes/MailInfoTest.class
+demo/target/test-classes/UserTest.class
